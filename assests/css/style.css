@@ -1,0 +1,18 @@
+body {
+    margin-top: 70px;
+    background-color: black;
+    color: aliceblue;
+}
+.card-primary {
+        background-color: #007bff; /* Màu chủ đạo mặc định của Bootstrap */
+        color: #ffffff; /* Màu chữ trắng để tương phản */
+}
+.card-success {
+        background-color: #28a745; /* Màu xanh lá cây (green) */
+        color: #ffffff; /* Màu chữ trắng để tương phản */
+}
+
+.card-danger {
+        background-color: #dc3545; /* Màu đỏ (red) */
+        color: #ffffff; /* Màu chữ trắng để tương phản */
+}
